@@ -35,10 +35,5 @@ pacman -S pipewire pipewire-jack pipewire-alsa pipewire-pulse \
 pacman -S noto-fonts noto-fonts-emoji noto-fonts-cjk noto-fonts-extra
 
 #essesial software
-pacman -S vim keepassxc mpv sxiv
+pacman -S vim keepassxc mpv sxiv chromium
 
-#browser
-yay -S brave-bin
-#still figure it out how to fstab
-#
-#UUID=2e4cb9df-9dc2-4709-9622-27a1938b3046       /home/yellow/SecondStore/       btrfs   rw,relatime,exec,defaults       0 1
